@@ -12,7 +12,7 @@ shinyUI(fluidPage(
                      #                            "Amazon.in"="az_in")),
                      numericInput("n_pgs","No of pages to scrape",
                                   min = 1,
-                                  max=5,
+                                  max=10,
                                   value = 1),
                      actionButton("scrape","Scrape")
     )
