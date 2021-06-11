@@ -12,7 +12,7 @@ Amazon scraper app helps you to download reviews of listed product on any Amazon
 
 - Go to product page as shown below and click on ratings
 
-  <img src="www/step1.png" style="zoom:75%;" />
+  <img src="www\step1.png" style="zoom:75%;" />
 
 - Scroll down to bottom and click on see all reviews
 
